@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "staging": "linkedin-clone-18196",
+    "default": "linkedin-clone-18196"
+  },
+  "targets": {},
+  "etags": {}
+}
